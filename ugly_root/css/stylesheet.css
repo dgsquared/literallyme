@@ -1,0 +1,10 @@
+body {
+    background-image: url(../img/goslingsxsw.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:blueviolet;
+}
+
+h1 {
+    color:blanchedalmond;
+}
